@@ -72,7 +72,7 @@
 ;;
 ;; AUTOMATIC PARSING
 ;; -----------------------------------------------------
-;;     C-x C-a ------> Analyses the text for measurments of performance.
+;;     C-x C-a ------> Analyses the text for measurements of performance.
 
 ;;; Code:
 
